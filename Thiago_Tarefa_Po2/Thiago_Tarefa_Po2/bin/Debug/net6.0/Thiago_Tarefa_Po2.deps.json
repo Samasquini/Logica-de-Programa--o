@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Thiago_Tarefa_Po2/1.0.0": {
+        "runtime": {
+          "Thiago_Tarefa_Po2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thiago_Tarefa_Po2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

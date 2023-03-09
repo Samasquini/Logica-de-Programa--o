@@ -1,0 +1,30 @@
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\bin\Debug\net6.0\Lista.exe
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\bin\Debug\net6.0\Lista.deps.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\bin\Debug\net6.0\Lista.runtimeconfig.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\bin\Debug\net6.0\Lista.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\bin\Debug\net6.0\Lista.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\refint\Lista.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\Lista.genruntimeconfig.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Lista\Lista\obj\Debug\net6.0\ref\Lista.dll
+E:\Matheus\Lista\Lista\bin\Debug\net6.0\Lista.exe
+E:\Matheus\Lista\Lista\bin\Debug\net6.0\Lista.deps.json
+E:\Matheus\Lista\Lista\bin\Debug\net6.0\Lista.runtimeconfig.json
+E:\Matheus\Lista\Lista\bin\Debug\net6.0\Lista.dll
+E:\Matheus\Lista\Lista\bin\Debug\net6.0\ref\Lista.dll
+E:\Matheus\Lista\Lista\bin\Debug\net6.0\Lista.pdb
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.csproj.AssemblyReference.cache
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.AssemblyInfoInputs.cache
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.AssemblyInfo.cs
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.csproj.CoreCompileInputs.cache
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.dll
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\ref\Lista.dll
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.pdb
+E:\Matheus\Lista\Lista\obj\Debug\net6.0\Lista.genruntimeconfig.cache

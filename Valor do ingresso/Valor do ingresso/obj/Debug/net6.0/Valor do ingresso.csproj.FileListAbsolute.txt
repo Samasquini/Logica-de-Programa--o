@@ -1,0 +1,15 @@
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\bin\Debug\net6.0\Valor do ingresso.exe
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\bin\Debug\net6.0\Valor do ingresso.deps.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\bin\Debug\net6.0\Valor do ingresso.runtimeconfig.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\bin\Debug\net6.0\Valor do ingresso.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\bin\Debug\net6.0\Valor do ingresso.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\refint\Valor do ingresso.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\Valor do ingresso.genruntimeconfig.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\Valor do ingresso\Valor do ingresso\obj\Debug\net6.0\ref\Valor do ingresso.dll

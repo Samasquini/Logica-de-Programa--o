@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calcular idade da internet/1.0.0": {
+        "runtime": {
+          "calcular idade da internet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcular idade da internet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

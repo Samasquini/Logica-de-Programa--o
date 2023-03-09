@@ -1,0 +1,15 @@
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\bin\Debug\net6.0\calcular idade da internet.exe
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\bin\Debug\net6.0\calcular idade da internet.deps.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\bin\Debug\net6.0\calcular idade da internet.runtimeconfig.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\bin\Debug\net6.0\calcular idade da internet.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\bin\Debug\net6.0\calcular idade da internet.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\refint\calcular idade da internet.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\calcular idade da internet.genruntimeconfig.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\calcular idade da internet\calcular idade da internet\obj\Debug\net6.0\ref\calcular idade da internet.dll

@@ -1,0 +1,15 @@
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\bin\Debug\net6.0\Exercicio 1.exe
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\bin\Debug\net6.0\Exercicio 1.deps.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\bin\Debug\net6.0\Exercicio 1.runtimeconfig.json
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\bin\Debug\net6.0\Exercicio 1.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\bin\Debug\net6.0\Exercicio 1.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\refint\Exercicio 1.dll
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.pdb
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\msama\OneDrive\Documentos\4° Bimestre\Logica de Programação\P.O.O.-Aula4\P.O.O.-Aula4\obj\Debug\net6.0\ref\Exercicio 1.dll

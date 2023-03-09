@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_Perolla", "Lista_Perolla\Lista_Perolla.csproj", "{A376FABB-01C6-4E8E-BC21-0131FC24EA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A376FABB-01C6-4E8E-BC21-0131FC24EA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A376FABB-01C6-4E8E-BC21-0131FC24EA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A376FABB-01C6-4E8E-BC21-0131FC24EA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A376FABB-01C6-4E8E-BC21-0131FC24EA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6627796-6EA6-4C73-B3B4-5501CEDC907A}
+	EndGlobalSection
+EndGlobal
